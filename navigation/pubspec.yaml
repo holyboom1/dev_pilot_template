@@ -8,7 +8,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  auto_route: ^8.1.2
+  auto_route: ^9.2.2
   flutter:
     sdk: flutter
 
@@ -23,7 +23,7 @@ dependencies:
 
 
 dev_dependencies:
-  flutter_lints: ^4.0.0
-  auto_route_generator: ^8.0.0
-  build_runner: ^2.4.10
+  flutter_lints: ^5.0.0
+  auto_route_generator: ^9.0.0
+  build_runner: ^2.4.13
 
